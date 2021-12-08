@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My Name is Richin*
+_studyung ELECTRONICS AND COMMUNICATION_
+
+**I AM HAPPY TO BE PART**
+__Of this program__
+
+_You **can** combine them_
